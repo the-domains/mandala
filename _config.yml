@@ -1,7 +1,7 @@
 name: Mandala
 favicon: null
-layout_spectrum: 0.39782948954962194
-typography_spectrum: 0.6331383255310357
+layout_spectrum: 0.98678
+typography_spectrum: 0.65377
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#cc0000'
+    - '#ffffff'
+    - '#251f20'
+    - '#e38920'
+    - '#feff00'
   brandStrength: 0.3490342446602881
   lightness: 0.9933348295744509
   saturation: 0.2512925330083817
